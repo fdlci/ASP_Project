@@ -1,6 +1,11 @@
 # Music Summarization
 # Audio Signal Processing MVA 2021
 
+Audio Samples:
+
+    - Spring.wav: Spring (Allegro) by Vivaldi
+    - beatles.wav: The Magical Mystery Tour by The Beatles
+
 Available files:
 
     ARTICLE [1]:
